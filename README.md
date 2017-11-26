@@ -1,1 +1,1 @@
-# css-variables
+# css-variables updating by JavaScript
